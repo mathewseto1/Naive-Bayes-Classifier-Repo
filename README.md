@@ -1,2 +1,2 @@
 # Naive Bayes Classifier Repo
- Naive Bayes classifier machine learning
+ Naive Bayes classifier
